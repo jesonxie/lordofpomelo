@@ -1,4 +1,6 @@
-##Lordofpomelo - Lordofpomelo is a browser-based MMORPG
+可用的 lordofpomelo 工程
+
+## Lordofpomelo - Lordofpomelo is a browser-based MMORPG
 
 Lordofpomelo is a browser-based MMORPG(massively multiplayer online role-playing game). 
 The backend is written in node.js based on [pomelo](https://github.com/NetEase/pomelo),
